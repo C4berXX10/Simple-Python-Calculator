@@ -16,8 +16,8 @@ def divide(x, y):
 print(" Calculator ")
 print("a.Plus (+)")
 print("b.Minus (-)")
-print("d.Multiply (×)")
-print("c.Divide (÷)")
+print("c.Multiply (*)")
+print("d.Divide (/)")
 
 print (" ")
 
